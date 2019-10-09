@@ -1,1 +1,8 @@
 git学习笔记
+1,git config --global参数
+2,创建版本库
+  git init
+  git add添加
+  git commit -m提交
+  git status查看状态
+  git diff  查看修改内容
